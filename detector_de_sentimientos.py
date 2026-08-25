@@ -1,13 +1,13 @@
 comentario =input("Porfavor deje su comentario sobre el servicio: ").lower()
 positivas = ["ama", "gusta", "genial", "excelente", "bueno", "maravilloso", "perfecto", "increible", "feliz", "contento", "satisfecho"]
-negativas = ["odia", "malo", "terrible", "decepcionante", "pésimo", "pesimo" , "horrible", "insatisfecho", "frustrante", "triste", "enojado"]
+negativas = ["odia", "odio" , "malo", "terrible", "decepcionante", "pésimo", "pesimo" , "horrible", "insatisfecho", "frustrante", "triste", "enojado"]
 
 buena = 0
 mala = 0
-
-for palabra in comentario.split():
+comentario_limpio = comentario.replace(",", "").replace(".", "").replace("!", "").replace("?", "")
+for palabra in comentario_limpio.split():
     if palabra in positivas:
-        buena +=1
+         buena +=1
     else:
         if palabra in negativas:
             mala +=1
