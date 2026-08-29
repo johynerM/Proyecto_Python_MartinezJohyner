@@ -1,0 +1,11 @@
+
+Total General Vendido 53098573
+Producto estrella: Gorra
+Cantidad vendida: {'Reloj deportivo': 43, 'Jean clásico': 44, 'Tenis urbanos': 38, 'Audífonos inalámbricos': 24, 'Media pantalón': 33, 'Camiseta básica': 23, 'Mochila escolar': 35, 'Cinturón de cuero': 34, 'Power bank': 25, 'Chaqueta impermeable': 41, 'Sudadera con capota': 22, 'Bufanda': 46, 'Sandalias': 24, 'Botas de cuero': 22, 'Gorra': 57}
+Producto menos vendido: Sudadera con capota
+
+El top 3 de nuestros vendedores fue: 
+
+Primer puesto Andrea Salazar
+Segundo puesto Natalia Puentes
+Tercer puesto Camila Rojas

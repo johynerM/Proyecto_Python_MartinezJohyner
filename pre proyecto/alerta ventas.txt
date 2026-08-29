@@ -1,0 +1,5 @@
+
+Vendedor: Andrea Salazar
+Tienda: Medellín
+Producto: Reloj deportivo
+Monto: 1,058,280.00
