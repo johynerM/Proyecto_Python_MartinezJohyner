@@ -1,0 +1,8 @@
+REQUISITOS DEL RETO 
+
+    Regsitrar materias y actividadeds en un horario semanal
+    Visualizar el horario estructurado y ordenado
+    Modificar eventos del horario
+    Generar reportes en JSON y mostrarlos en consola con paginacino
+    Almacenar el horario en el JSON
+    Todo se almacena en archivos JSON
