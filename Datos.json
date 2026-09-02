@@ -40,5 +40,19 @@
         "hora_fin": "11",
         "ubicacion": "",
         "dia": "Sábado"
+    },
+    {
+        "materia": "libre",
+        "hora_inicio": "10:00",
+        "hora_fin": "12:00",
+        "ubicacion": "Salon 301",
+        "dia": "Viernes"
+    },
+    {
+        "materia": "Fisica",
+        "hora_inicio": "2:00",
+        "hora_fin": "4:00",
+        "ubicacion": "salon 105",
+        "dia": "Sábado"
     }
 ]
